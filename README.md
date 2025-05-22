@@ -1,2 +1,4 @@
-# ULGOT
-This is a submod for TK2030's Game of Thrones mod for Hearts of Iron IV, adding Ukrainian localization. This submod uses the community-made Ukrainian localization as a foundation (original link: https://steamcommunity.com/sharedfiles/filedetails/?id=2706358548). The mod has been translated with AI, so errors may be present.
+# ULGOT - Ukrainian Localization for [Game of Thrones Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3469425562)
+This is a submod for TK2030's [Game of Thrones mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3469425562) for Hearts of Iron IV, adding Ukrainian localization. This submod uses the community-made Ukrainian localization as a foundation ([link](https://steamcommunity.com/sharedfiles/filedetails/?id=2706358548)). The mod has been translated with AI, so errors may be present.
+
+Це сабмод для моду Game of Thrones від TK2030 для гри Hearts of Iron IV, що додає українську локалізацію. Цей сабмод використовує як основу українізатор, створений спільнотою ([посилання](https://steamcommunity.com/sharedfiles/filedetails/?id=2706358548)). Мод перекладено за допомогою ШІ, тому можуть бути присутні помилки.
