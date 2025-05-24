@@ -227,7 +227,7 @@ AIR_GENERATE_ADVISOR: "Найняти авіацію £pol_power $COST|-0$"
 OFFICER_CORPS_LABEL: "Офіцерський корпус"
 OFFICER_CORP_ARMY_DOCTRINE: "Командування армією"
 OFFICER_CORP_NAVY_DOCTRINE: "Командування флотом"
-OFFICER_CORP_AIR_DOCTRINE: "Командування драконами"
+OFFICER_CORP_AIR_DOCTRINE: "Командування авіацією"
 OFFICER_CORP_SPIRITS: "Духи"
 OFFICER_CORP_PREFERED_TACTICS: "Переважні тактики" # (&)
 OFFICER_CORP_PREFERRED_TACTICS_SELECTION: "Вибір переважних тактик\n" # (&)
